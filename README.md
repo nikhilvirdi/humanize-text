@@ -18,25 +18,29 @@ For more examples like this, see [EXAMPLES.md](EXAMPLES.md).
 
 ### Installation
 
+#### Any model (generic)
+
+1. Open [`SKILL/SKILL.md`](SKILL/SKILL.md) and copy its full contents.
+2. Start a new chat in the model and paste the contents.
+3. Send this small, strict prompt: "Apply the instructions above strictly. Rewrite only the text I send next, and reply with the rewritten text only."
+
+This works in any model, including Claude and Gemini.
+
 #### Claude
 
 1. Download [`claude/humanize-text.zip`](claude/humanize-text.zip).
 2. In Claude, open **Customize**, scroll to **Skills**, click **Add** in the top right, and upload the zip.
-
-Second method: open a new chat, attach [`SKILL/SKILL.md`](SKILL/SKILL.md), and send: "Use the attached SKILL.md to add the skill named 'humanise-text' or name of your choice."
 
 #### Gemini
 
 1. Download [`gemini/humanize-text.zip`](gemini/humanize-text.zip).
 2. Open Gemini's settings, find the skills section, and upload the zip.
 
-Second method: open a new chat, attach [`SKILL/SKILL.md`](SKILL/SKILL.md), and send: "Use the attached SKILL.md to add the skill named 'humanise-text' or name of your choice."
-
 #### ChatGPT
 
 1. Follow OpenAI's official guide: [Skills in ChatGPT](https://help.openai.com/en/articles/20001066-skills-in-chatgpt). Availability depends on your plan, so check the guide first.
 
-Second method: open a new chat, attach [`chatgpt/prompt.md`](chatgpt/prompt.md), and paste the contents of [`SKILL/SKILL.md`](SKILL/SKILL.md) below it.
+The `legacy/` folder contains the initial version of the skill, kept for reference. Use the current files above.
 
 ### Usage
 
