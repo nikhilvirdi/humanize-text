@@ -26,17 +26,17 @@ For more examples like this, see [EXAMPLES.md](EXAMPLES.md).
 
 This works in any model, including Claude and Gemini.
 
-#### <img src="https://github.com/user-attachments/assets/17d93173-f429-49ce-8867-fc532d867319" width="24" height="24" align="middle" /> Claude
+#### <img src="https://github.com/user-attachments/assets/17d93173-f429-49ce-8867-fc532d867319" width="24" height="24" align="middle" /> 
 
 1. Download [`Claude/humanize-text.zip`](Claude/humanize-text.zip).
 2. In Claude, open **Customize**, scroll to **Skills**, click **Add** in the top right, and upload the zip.
 
-#### <img src="https://github.com/user-attachments/assets/5a05f100-4eaf-477f-ac3b-94bf3a341a0f" width="24" height="24" align="middle" /> Gemini
+#### <img src="https://github.com/user-attachments/assets/5a05f100-4eaf-477f-ac3b-94bf3a341a0f" width="24" height="24" align="middle" /> 
 
 1. Download [`Gemini/humanize-text.zip`](Gemini/humanize-text.zip).
 2. Open Gemini's settings, find the skills section, and upload the zip.
 
-#### <img src="https://github.com/user-attachments/assets/6dce5132-f71d-450a-a5fa-92a80ff93818" width="24" height="24" align="middle" /> ChatGPT
+#### <img src="https://github.com/user-attachments/assets/6dce5132-f71d-450a-a5fa-92a80ff93818" width="24" height="24" align="middle" /> 
 
 1. Follow OpenAI's official guide: [Skills in ChatGPT](https://help.openai.com/en/articles/20001066-skills-in-chatgpt). Availability depends on your plan, so check the guide first.
 
